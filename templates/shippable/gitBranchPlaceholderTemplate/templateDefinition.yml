@@ -1,7 +1,7 @@
 pipelines:
-  - name: inline_pipeline_0001
+  - name: inline_pipeline_00012
     steps:
-      - name: inline_p0001_step_001
+      - name: inline_p0001_step_0012
         type: Bash
         execution:
           onExecute:
